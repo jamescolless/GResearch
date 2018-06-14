@@ -1,0 +1,27 @@
+# pack-refs with: peeled fully-peeled 
+c3e9d8f10b09a3e040a91de85048c3e1fb9688c3 refs/remotes/origin/appveyor-ci
+509ebe4a9282eec8a92c65ce3bbc1925f1fdbe07 refs/remotes/origin/develop
+9e5e62c89857ac9cb551cb05d8973ff2ccbb6d9b refs/remotes/origin/gh-pages
+520f9b35b1d41cbb34befe77b43cc0188e4e5dc1 refs/remotes/origin/master
+cca8f4db9106dba9c3c04fc01c18862ea4acf035 refs/remotes/origin/travis-build-relwithdebinfo
+6245d82d57aa9e0029a0beb1b37555f27440dcd5 refs/remotes/origin/vector-default-queue
+44f08e3932e8ec1101e1aa137e404c3da5fddb5c refs/tags/boost-1.61.0
+86211062a771ab0b494116b4223b63a292ad7d11 refs/tags/boost-1.62.0
+82f588f24ed2640bca4bf3f31dfcb06703d9bc13 refs/tags/boost-1.63.0
+82f588f24ed2640bca4bf3f31dfcb06703d9bc13 refs/tags/boost-1.64.0
+82f588f24ed2640bca4bf3f31dfcb06703d9bc13 refs/tags/boost-1.64.0-beta1
+82f588f24ed2640bca4bf3f31dfcb06703d9bc13 refs/tags/boost-1.64.0-beta2
+a965a8dab6fe0b997bf3a17c298653a34d7c1714 refs/tags/boost-1.65.0
+a965a8dab6fe0b997bf3a17c298653a34d7c1714 refs/tags/boost-1.65.1
+d36ef02b7860b9bcf5ea4911b77f1aa77b5f4059 refs/tags/boost-1.66.0
+d36ef02b7860b9bcf5ea4911b77f1aa77b5f4059 refs/tags/boost-1.67.0
+6d2f82408bebaa13693b44fbc36a0de55eaaa866 refs/tags/v0.1
+^53d6e95054132b5e69c2ca00adf2fa3cb0bddb74
+7ab334443ca20113ffb39b566f2e592ea727e3cc refs/tags/v0.2
+^72747e0830e3a2d6119ddb48e60fe919a7468f05
+5db4b95394fe495c6eaa2b2ae2c93412be7eaff3 refs/tags/v0.3
+^f50e9c011005ef27a63760fc6b6d7a3f092f0b5d
+76dd77b271bfd5487417b4f1bc593394c35f65d2 refs/tags/v0.4
+^57eec36d20e122a496d3fbfddf8bf4ad8d6f4a4f
+b7db5de2ad202211aa4d77f6893567f4930f467b refs/tags/v0.5
+^301c541824daf37978dabe66344767cfaa36455b
