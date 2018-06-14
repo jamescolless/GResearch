@@ -1,0 +1,8 @@
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/install/strip.dir
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/lightgbm.dir
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/list_install_components.dir
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/_lightgbm.dir
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/install/local.dir
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/install.dir
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/edit_cache.dir
+C:/Users/labuser/Documents/LGBM/LightGBM/build/CMakeFiles/rebuild_cache.dir
