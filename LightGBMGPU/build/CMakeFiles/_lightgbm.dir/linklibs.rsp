@@ -1,1 +1,0 @@
-C:/Windows/System32/OpenCL.dll C:/boost-build/lib/libboost_filesystem.a C:/boost-build/lib/libboost_system.a -lWs2_32 -lIPHLPAPI -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
